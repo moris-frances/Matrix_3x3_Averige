@@ -1,0 +1,12 @@
+Eingabe Matrix:
+ 1  2  3  1  
+ 5  6  8  1  
+ 6  2  4  1  
+
+Dimension Eingabe Matrix: 3x4 
+
+Dimension Ausgabe Matrix: 1x2
+
+Ergebnis Matrix:
+ 
+ 4.11111  3.11111  
