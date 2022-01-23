@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//preprocessor constants for the row and column dimentions of the matrix
+//preprocessor constants for the row and column dimensions of the matrix
 #define DIM_R 3
 #define DIM_C 4
 
