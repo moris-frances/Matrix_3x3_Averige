@@ -1,2 +1,2 @@
-# Matrix_3x3_Averige
+# Matrix_3x3_Average
 
